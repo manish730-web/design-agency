@@ -12,6 +12,16 @@ DESIGNO is a creative digital agency website
 
 The website presents digital agency services, creative projects, and contact information through a modern and responsive design.
 
+#Technologies Used:
+
+- Next.js
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- AOS (Animate On Scroll)
+  
 #Features:
 
 * Modern and clean user interface.
@@ -24,15 +34,6 @@ The website presents digital agency services, creative projects, and contact inf
 * Smooth scroll animations using AOS.
 * Hover effects and interactive elements.
 
-#Technologies Used:
-
-- Next.js
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- AOS (Animate On Scroll)
 
 #Installation and Setup:
 
