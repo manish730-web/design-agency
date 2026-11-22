@@ -14,13 +14,13 @@ The website presents digital agency services, creative projects, and contact inf
 
 #Technologies Used:
 
-- Next.js
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- AOS (Animate On Scroll)
+* Next.js
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* AOS (Animate On Scroll)
   
 #Features:
 
@@ -66,3 +66,9 @@ The website is designed to work across different screen sizes:
 * Desktop
 * Tablet
 * Mobile
+
+#Author
+
+Manish
+
+*GitHub: manish730-web
