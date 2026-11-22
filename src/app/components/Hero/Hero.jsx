@@ -30,7 +30,7 @@ export default function Hero() {
             </p>
 
             <div className="hero-buttons" data-aos="fade-in" data-aos-delay="600" >
-                <button>Get Started</button>
+                <button onClick={() => window.location.href = "#contact"}>Let's Talk</button>
                 <a href="#portfolio">View Our Work →</a>
             </div>
 

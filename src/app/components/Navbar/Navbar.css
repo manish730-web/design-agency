@@ -55,3 +55,43 @@ nav button:hover {
   transform: scale(1.05);
   opacity: 0.85;
 }
+@media (max-width: 768px) {
+
+    .navbar {
+        padding: 15px 20px;
+    }
+
+    .nav-links {
+        display: flex;
+        gap: 15px;
+    }
+
+    .nav-links a {
+        font-size: 13px;
+    }
+
+    .logo {
+        font-size: 22px;
+    }
+
+}
+
+@media (max-width: 480px) {
+
+    .navbar {
+        padding: 12px 10px;
+    }
+
+    .nav-links {
+        gap: 8px;
+    }
+
+    .nav-links a {
+        font-size: 11px;
+    }
+
+    .logo {
+        font-size: 18px;
+    }
+
+}
