@@ -57,41 +57,50 @@ nav button:hover {
 }
 @media (max-width: 768px) {
 
-    .navbar {
-        padding: 15px 20px;
+    nav {
+        padding: 15px 4%;
     }
 
-    .nav-links {
-        display: flex;
+    nav h2 {
+        font-size: 22px;
+    }
+
+    nav ul {
         gap: 15px;
     }
 
-    .nav-links a {
+    nav ul li a {
         font-size: 13px;
     }
 
-    .logo {
-        font-size: 22px;
+    nav button {
+        padding: 10px 15px;
+        font-size: 13px;
     }
 
 }
 
 @media (max-width: 480px) {
 
-    .navbar {
-        padding: 12px 10px;
+    nav {
+        padding: 12px 3%;
     }
 
-    .nav-links {
+    nav h2 {
+        font-size: 18px;
+    }
+
+    nav ul {
         gap: 8px;
     }
 
-    .nav-links a {
+    nav ul li a {
         font-size: 11px;
     }
 
-    .logo {
-        font-size: 18px;
+    nav button {
+        padding: 8px 10px;
+        font-size: 11px;
     }
 
 }
