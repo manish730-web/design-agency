@@ -16,9 +16,9 @@ export default function Services() {
     return (
         <section id="services" className="services">
 
-            <p className="section-tag" data-aos="fade-in" data-aos-delay="600">WHAT WE DO</p>
+            <p className="section-tag" data-aos="fade-in" data-aos-delay="100">WHAT WE DO</p>
 
-            <h2   >Our Services</h2>
+            <h2  data-aos="fade-up">Our Services</h2>
 
             <p className="services-description tag" data-aos="fade-down" >
                 We provide creative solutions to help your business grow.
