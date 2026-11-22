@@ -1,18 +1,18 @@
-DESIGNO – Creative Digital Agency
+#DESIGNO – Creative Digital Agency
 
 A modern and responsive Design Agency Homepage built using Next.js and React. DESIGNO showcases creative digital services, portfolio projects, and a contact section with a clean and professional user interface.
 
-Live Demo:
+#Live Demo:
 
 https://design-agency-ten-ecru.vercel.app/
 
-Project Overview:
+#Project Overview:
 
 DESIGNO is a creative digital agency website 
 
 The website presents digital agency services, creative projects, and contact information through a modern and responsive design.
 
-Features:
+#Features:
 
 * Modern and clean user interface.
 * Responsive design for desktop, tablet, and mobile devices.
@@ -24,7 +24,7 @@ Features:
 * Smooth scroll animations using AOS.
 * Hover effects and interactive elements.
 
-Technologies Used:
+#Technologies Used:
 
 - Next.js
 - React.js
@@ -34,7 +34,7 @@ Technologies Used:
 - Tailwind CSS
 - AOS (Animate On Scroll)
 
-Installation and Setup:
+#Installation and Setup:
 
 Follow these steps to run the project locally.
 
@@ -58,7 +58,7 @@ npm run dev
 
 http://localhost:3000
 
-Responsive Design:
+#Responsive Design:
 
 The website is designed to work across different screen sizes:
 
